@@ -14,22 +14,21 @@ Where Does My Money Go?金沢市 β版（2014年7月26日稼働）は、金沢�
 
 Where Does My Money Go? Nonoichi helps it's residents understand how their tax money is being used. Based on the Yokohama version of wheredoesmymoneygo.org, it aims to provide greater transparancy into government spending as part of the OpenSpending (http://openspending.org/) initiative.
 
-# Nonoichi-shi Team
+# Kanazawa-shi Team
 
-- 福島健一郎 （コーディネータ）@kenchif
-- 五十川員申 （コーディネータ）
-- 一ノ瀬裕太 （グラフィッカ）
-- ふしわき さき （グラフィッカ）
-- 小野祐貴 （エンジニア）
-- Yota Ichino （エンジニア）
-- 笠井真一 （CSVデータ制作）
-- 相河裕一 （CSVデータ制作）
-- 松田尚子 （各種項目詳細制作）
-- 早川彰一 野々市市 市議会議員 （アドバイザ）
-- 多田富喜男 野々市市 市民協働課 課長 （アドバイザ）
-- 小松靖典 （アドバイザ）
+- 福島　健一郎 （コーディネータ）@kenchif
+- 五十川　員申 （コーディネータ）
+- 小野　祐貴 （エンジニア）
+- 相河　裕一
+- 多田　富喜男
+- 堤下　薫
+- 白木　宏朋
+- 白木　幸三
+- 谷内　優子
+- 松田　大樹
+- 神田　現
 
-協力　金沢市　市民協働課
+協力　Code for Kanazawa
 
 # Core Team: （@は Twitter Account）
 
